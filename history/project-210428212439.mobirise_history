@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Error 404",
-    "currentPage": "zeitsstrahl.html",
+    "name": "Site-12-14_1728",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -48,7 +48,7 @@
     "uniqCompNum": 22,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/g-1.svg",
+    "favicon": "@PROJECT_PATH@/assets/images/g_1.svg",
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -66,7 +66,9 @@
       "text": "Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für eingebettete Inhalte und externer Links. Für den Inhalt der verlinkten und eingebetteten Seiten sind ausschließlich deren Betreiber verantwortlich. <a href='impressum.html'>Impressum</a>.",
       "textButton": "ok"
     },
-    "gdpr": false
+    "gdpr": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -1089,7 +1091,7 @@
     "zeitsstrahl.html": {
       "settings": {
         "meta_descr": "Zeitstrahl",
-        "title": "Error 404",
+        "title": "zeitstrahl",
         "order": 1,
         "meta_image": "@PROJECT_PATH@/assets/images/g.svg"
       },
